@@ -1,5 +1,5 @@
 Title: Bypassing the Quantum Bottleneck: A Theoretical Framework for a Directional Current-Mode Quaternary Charge-Domain CPU
-Author: [ଆପଣଙ୍କ ନାମ]
+Author: ASWINI BARAL 
 Abstract:
 As binary CMOS scaling reaches its physical limits under Deep Ultraviolet (DUV) lithography, and quantum computers remain constrained by cryogenic and error-correction bottlenecks, an alternative architectural paradigm is required. This paper introduces "Directional Charge Flow Logic (DCFL)", a novel quaternary (4-state) CPU architecture that computes using the vector direction of electrical current rather than static voltage levels. By leveraging an 8T-2C (Transistor-Capacitor) hybrid cell and introducing a dynamic oscillating 'XYZ' state, this classical DUV-manufacturable processor natively performs analog arithmetic via Kirchhoff’s Current Law (KCL), offering quantum-inspired speedups for optimization, cryptography, and AI workloads at room temperature.
 1. The Limitations of Voltage-Mode Binary Logic
